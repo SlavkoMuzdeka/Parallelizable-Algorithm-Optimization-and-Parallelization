@@ -45,6 +45,6 @@ Feel free to customize and adapt the provided information to match your project'
 
 ![Screenshot](Cachegrind.png)
 
-![Screenshot](Optimization1.png)
+![Screenshot](Optimization1.PNG)
 
-![Screenshot](Optimization2.png)
+![Screenshot](Optimization2.PNG)
